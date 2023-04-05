@@ -1,0 +1,29 @@
+* {
+    background-color: #111827;
+    color: white;
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.child {
+    display: flex;
+    align-items: flex-start;
+    text-align: center;
+    width: 50%;
+}
+
+footer {
+    text-align: left;
+    width: 50%;
+}
